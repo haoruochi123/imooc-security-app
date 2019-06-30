@@ -1,6 +1,7 @@
 # Eclipse
 .metadata/
 .settings/
+target/
 bin/
 tmp/
 *.tmp
